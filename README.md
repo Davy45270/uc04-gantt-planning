@@ -1,2 +1,3 @@
-# uc04-gantt-planning
-UC04 Planification Gantt
+# UC04 Planification Gantt
+
+Use case repo for UC04 Planification Gantt.
